@@ -1,0 +1,14 @@
+{
+  "resourceName": "CloudDoTfiles",
+  "policyUUID": "006e2cbf",
+  "bucketName": "clouddotstorage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
