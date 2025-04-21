@@ -89,7 +89,7 @@ function FileUpload() {
   <Flex alignItems="center" gap="10px">
     <img src="/dot.jpg" alt="Logo" style={{ height: '150px' }} />
     <Heading level={2} style={{ color: '#333', margin: 0 }}>
-      Cloud-DoT-Storage
+      Cloud-DoT-Storage-Lab7
     </Heading>
   </Flex>
   <Button variation="primary" onClick={handleLogout}>
